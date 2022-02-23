@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.fontFamily": "Roboto Mono Light for Powerline",
+		"terminal.integrated.fontSize": 14
+	}
+}
